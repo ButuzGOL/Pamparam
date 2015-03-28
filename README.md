@@ -1,4 +1,4 @@
 Pamparam
 ========
 
-[Old pamparam.net website](http://www.pamparam.net/portfolio/pamparam/)
+[Old pamparam.net website](http://butuzgol.github.io/portfolio/pamparam/)
